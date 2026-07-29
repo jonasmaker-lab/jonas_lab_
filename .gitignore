@@ -1,0 +1,23 @@
+# macos
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# windows
+Thumbs.db
+Desktop.ini
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# editoren / ides
+.vscode/
+.idea/
+*.swp
+
+# tooling
+graphify-out/

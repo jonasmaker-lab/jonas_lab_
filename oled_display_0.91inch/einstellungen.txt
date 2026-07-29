@@ -1,0 +1,20 @@
+# einstellungen fuers display — zeilen mit # sind kommentare
+# nach dem aendern einfach neu flashen (flash.bat / flash.command)
+
+# schriftgroesse: 1 (klein) bis 4 (riesig)
+groesse = 2
+
+# modus: static (steht) | scroll (laeuft durch) | blink | bounce (dvd-screensaver)
+modus = scroll
+
+# tempo fuer scroll/blink/bounce: 1 (langsam) bis 10 (schnell)
+tempo = 3
+
+# invertiert: ja = schwarzer text auf weissem grund
+invertiert = nein
+
+# helligkeit: 0 bis 255
+helligkeit = 255
+
+# gedreht: ja = anzeige um 180 grad drehen
+gedreht = nein
